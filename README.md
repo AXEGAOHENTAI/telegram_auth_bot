@@ -1,1 +1,1 @@
-# tg_bot_auth_Steam
+# telegram_auth_bot
